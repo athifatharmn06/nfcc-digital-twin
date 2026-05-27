@@ -12,44 +12,44 @@
 ## 📸 Screenshots
 
 ### Main Dashboard — 3D Holographic View
-![Main Dashboard](docs/screenshots/01-main-dashboard.png)
+![Main Dashboard](docs/screenshots/main-dashboard.png)
 
 ---
 
 ### Division Dashboards
 
 #### Division 01 — Komando Utama
-![Command Center](docs/screenshots/02-div-01-command.png)
+![Command Center](docs/screenshots/div-01-command.png)
 
 #### Division 02 — Keamanan Dalam
-![Internal Security](docs/screenshots/03-div-02-security.png)
+![Internal Security](docs/screenshots/div-02-security.png)
 
 #### Division 03 — Pertahanan Perimeter
-![Perimeter Defense](docs/screenshots/04-div-03-perimeter.png)
+![Perimeter Defense](docs/screenshots/div-03-perimeter.png)
 
 #### Division 04 — Ketenagalistrikan
-![Electrical Systems](docs/screenshots/05-div-04-electrical.png)
+![Electrical Systems](docs/screenshots/div-04-electrical.png)
 
 #### Division 05 — HVAC & Mekanikal
-![HVAC Control](docs/screenshots/06-div-05-hvac.png)
+![HVAC Control](docs/screenshots/div-05-hvac.png)
 
 #### Division 06 — Keselamatan Kebakaran
-![Fire Safety](docs/screenshots/07-div-06-fire.png)
+![Fire Safety](docs/screenshots/div-06-fire.png)
 
 #### Division 07 — Plumbing & Sanitasi
-![Plumbing](docs/screenshots/08-div-07-plumbing.png)
+![Plumbing](docs/screenshots/div-07-plumbing.png)
 
 #### Division 08 — Layanan Medis
-![Medical Services](docs/screenshots/09-div-08-medical.png)
+![Medical Services](docs/screenshots/div-08-medical.png)
 
 #### Division 09 — Logistik & Operasional
-![Logistics](docs/screenshots/10-div-09-logistics.png)
+![Logistics](docs/screenshots/div-09-logistics.png)
 
 #### Division 10 — Operasi Siber
-![Cyber Operations](docs/screenshots/11-div-10-cyber.png)
+![Cyber Operations](docs/screenshots/div-10-cyber.png)
 
 #### Division 11 — Komunikasi Krisis
-![Crisis Communications](docs/screenshots/12-div-11-crisis.png)
+![Crisis Communications](docs/screenshots/div-11-crisis.png)
 
 ---
 
