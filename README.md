@@ -12,77 +12,44 @@
 ## 📸 Screenshots
 
 ### Main Dashboard — 3D Holographic View
-> *Screenshot: main 3D scene with hologram building, sensor nodes, and drone patrols*
-
-<!-- SCREENSHOT: main-dashboard.png -->
-![Main Dashboard](docs/screenshots/main-dashboard.png)
+![Main Dashboard](docs/screenshots/01-main-dashboard.png)
 
 ---
 
 ### Division Dashboards
 
-<table>
-<tr>
-<td align="center"><b>01 — Komando Utama</b><br>
-<!-- SCREENSHOT: div-01-command.png -->
-<img src="docs/screenshots/div-01-command.png" width="300" alt="Command Center"/></td>
-<td align="center"><b>02 — Keamanan Dalam</b><br>
-<!-- SCREENSHOT: div-02-security.png -->
-<img src="docs/screenshots/div-02-security.png" width="300" alt="Internal Security"/></td>
-<td align="center"><b>03 — Pertahanan Perimeter</b><br>
-<!-- SCREENSHOT: div-03-perimeter.png -->
-<img src="docs/screenshots/div-03-perimeter.png" width="300" alt="Perimeter Defense"/></td>
-</tr>
-<tr>
-<td align="center"><b>04 — Ketenagalistrikan</b><br>
-<!-- SCREENSHOT: div-04-electrical.png -->
-<img src="docs/screenshots/div-04-electrical.png" width="300" alt="Electrical"/></td>
-<td align="center"><b>05 — HVAC</b><br>
-<!-- SCREENSHOT: div-05-hvac.png -->
-<img src="docs/screenshots/div-05-hvac.png" width="300" alt="HVAC"/></td>
-<td align="center"><b>06 — Keselamatan Kebakaran</b><br>
-<!-- SCREENSHOT: div-06-fire.png -->
-<img src="docs/screenshots/div-06-fire.png" width="300" alt="Fire Safety"/></td>
-</tr>
-<tr>
-<td align="center"><b>07 — Plumbing & Sanitasi</b><br>
-<!-- SCREENSHOT: div-07-plumbing.png -->
-<img src="docs/screenshots/div-07-plumbing.png" width="300" alt="Plumbing"/></td>
-<td align="center"><b>08 — Layanan Medis</b><br>
-<!-- SCREENSHOT: div-08-medical.png -->
-<img src="docs/screenshots/div-08-medical.png" width="300" alt="Medical"/></td>
-<td align="center"><b>09 — Logistik</b><br>
-<!-- SCREENSHOT: div-09-logistics.png -->
-<img src="docs/screenshots/div-09-logistics.png" width="300" alt="Logistics"/></td>
-</tr>
-<tr>
-<td align="center"><b>10 — Operasi Siber</b><br>
-<!-- SCREENSHOT: div-10-cyber.png -->
-<img src="docs/screenshots/div-10-cyber.png" width="300" alt="CyberOps"/></td>
-<td align="center"><b>11 — Komunikasi Krisis</b><br>
-<!-- SCREENSHOT: div-11-crisis.png -->
-<img src="docs/screenshots/div-11-crisis.png" width="300" alt="Crisis Comm"/></td>
-<td align="center"><b>Compliance Matrix</b><br>
-<!-- SCREENSHOT: compliance-matrix.png -->
-<img src="docs/screenshots/compliance-matrix.png" width="300" alt="Compliance Matrix"/></td>
-</tr>
-</table>
+#### Division 01 — Komando Utama
+![Command Center](docs/screenshots/02-div-01-command.png)
 
-### Emergency Mode — LOCKDOWN
-<!-- SCREENSHOT: emergency-lockdown.png -->
-![Emergency Lockdown](docs/screenshots/emergency-lockdown.png)
+#### Division 02 — Keamanan Dalam
+![Internal Security](docs/screenshots/03-div-02-security.png)
 
-### Cinematic Demo Mode
-<!-- SCREENSHOT: demo-mode.png -->
-![Demo Mode](docs/screenshots/demo-mode.png)
+#### Division 03 — Pertahanan Perimeter
+![Perimeter Defense](docs/screenshots/04-div-03-perimeter.png)
 
-### Notification Panel
-<!-- SCREENSHOT: notification-panel.png -->
-![Notification Panel](docs/screenshots/notification-panel.png)
+#### Division 04 — Ketenagalistrikan
+![Electrical Systems](docs/screenshots/05-div-04-electrical.png)
 
-### Node Hover Tooltip (BIM Metadata)
-<!-- SCREENSHOT: node-tooltip.png -->
-![Node Tooltip](docs/screenshots/node-tooltip.png)
+#### Division 05 — HVAC & Mekanikal
+![HVAC Control](docs/screenshots/06-div-05-hvac.png)
+
+#### Division 06 — Keselamatan Kebakaran
+![Fire Safety](docs/screenshots/07-div-06-fire.png)
+
+#### Division 07 — Plumbing & Sanitasi
+![Plumbing](docs/screenshots/08-div-07-plumbing.png)
+
+#### Division 08 — Layanan Medis
+![Medical Services](docs/screenshots/09-div-08-medical.png)
+
+#### Division 09 — Logistik & Operasional
+![Logistics](docs/screenshots/10-div-09-logistics.png)
+
+#### Division 10 — Operasi Siber
+![Cyber Operations](docs/screenshots/11-div-10-cyber.png)
+
+#### Division 11 — Komunikasi Krisis
+![Crisis Communications](docs/screenshots/12-div-11-crisis.png)
 
 ---
 
@@ -265,11 +232,11 @@ src/
 
 ## 👨‍💻 Author
 
-**Athif Fadheel**
+**Athif Fadheel**  
 Electrical Engineering Student
 
 *Built to demonstrate advanced programming capabilities through a mission-critical national infrastructure simulation — integrating systems engineering, real-time simulation, 3D visualization, AI/ML algorithms, and international standards compliance.*
 
 ---
 
-> **Note on Screenshots:** To add screenshots, take them from the running app at `http://localhost:5173`, save to `docs/screenshots/`, and push. The README references the paths listed in the `<!-- SCREENSHOT: -->` comments above.
+*NFCC Digital Twin — Zero backend. All computation in the browser.*
